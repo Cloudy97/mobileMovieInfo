@@ -1,0 +1,20 @@
+{
+  "musicData":[
+    {
+      "title":"渐渐",
+      "author":"陈奕迅",
+      "src": "static/music/jianjian.mp3",
+      "musicImgSrc": "http://p1.music.126.net/SGRNxyeA6_43M8oB0TuqrQ==/109951163370531309.jpg?param=130y130",
+      "lrc": "[00:00.00]陈奕迅 - 渐渐[00:02.00]作词：陈咏谦"
+
+    },
+    {
+      "title":"Thats What I Like",
+      "author":"Bruno Mars",
+      "src": "static/music/thatswhatilike.mp3",
+      "musicImgSrc": "http://p1.music.126.net/Q8WLm4WXyiQ0-BzIQiyR1w==/18793952254007213.jpg?param=130y130",
+      "lrc": "[ar:Bruno Mars][ti:Thats What I Like][00:00.71]Bruno Mars - That's What I Like[00:03.56]I got a condo in Manhattan[00:05.90]Baby girl what's hatning"
+    }
+  ]
+}
+
